@@ -28,3 +28,7 @@ Otros:
 El alto costo de las pruebas de software en productos genéricos destinados a un mercado amplio se debe a varios factores clave como lo son la compatibilidad y portabilidad, la diversidad de usuarios requeridos en distintos escenarios, como también su respectivo soporte y mantenimiento requerido.
 
 ## 4. Reflexione sobre la ética involucrada en el desarrollo de sistemas de vigilancia que rastrean las acciones de los ciudadanos para combatir el terrorismo. Discuta las implicaciones sobre la privacidad.
+
+La ética en el desarrollo de sistemas de vigilancia para rastrear las acciones de los ciudadanos con el fin de combatir el terrorismo debe centrarse en garantizar un equilibrio justo entre la protección de la seguridad pública y el respeto a los derechos individuales, particularmente la privacidad. Para que estos sistemas sean éticamente aceptables, deben cumplir con ciertos principios fundamentales, entre ellos la justificación moral, la transparencia y el consentimiento informado de los ciudadanos. En este caso los ciudadanos deben poder dar su consentimiento para la vigilancia, poniendo en una balanza la perdida de su privacidad y el beneficio de la potencial protección.
+
+
