@@ -10,6 +10,18 @@ organización que compra el software. Los desarroIJadores de software deben trab
 especificación.
 
 ## 2. Describa los cuatro atributos importantes que debe tener todo producto de software. Sugiera además cuatro atributos adicionales que podrían ser significativos para productos específicos.
+Atributos necesarios de todo producto de software: 
+1.	Mantenibilidad 
+2.	Confiabilidad 
+3.	Eficiencia 
+4.	Usabilidad 
+
+Otros: 
+
+5.	Seguridad
+6.	Conectividad (integración)
+7.	Exactitud 
+8.	Efectividad de costo
 
 ## 3. Analice por qué los costos de pruebas de software son particularmente altos en productos genéricos destinados a un mercado amplio y cómo esto influye en su desarrollo.
 
