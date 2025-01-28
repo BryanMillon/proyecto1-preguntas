@@ -15,7 +15,9 @@ Atributos necesarios de todo producto de software:
 2.	Confiabilidad 
 3.	Eficiencia 
 4.	Usabilidad 
+
 Otros: 
+
 5.	Seguridad
 6.	Conectividad (integración)
 7.	Exactitud 
