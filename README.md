@@ -14,7 +14,7 @@ Atributos necesarios de todo producto de software:
 1.	Mantenibilidad 
 2.	Confiabilidad 
 3.	Eficiencia 
-4.	Usabilidad 
+4.	Usabilidad
 
 Otros: 
 
@@ -24,5 +24,7 @@ Otros:
 8.	Efectividad de costo
 
 ## 3. Analice por qué los costos de pruebas de software son particularmente altos en productos genéricos destinados a un mercado amplio y cómo esto influye en su desarrollo.
+
+El alto costo de las pruebas de software en productos genéricos destinados a un mercado amplio se debe a varios factores clave como lo son la compatibilidad y portabilidad, la diversidad de usuarios requeridos en distintos escenarios, como también su respectivo soporte y mantenimiento requerido.
 
 ## 4. Reflexione sobre la ética involucrada en el desarrollo de sistemas de vigilancia que rastrean las acciones de los ciudadanos para combatir el terrorismo. Discuta las implicaciones sobre la privacidad.
